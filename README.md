@@ -10,6 +10,8 @@ Technologies used- Python, ML
                      sklearn
                      seaborn 
                      matplotlib
+
+
 Models used- Random Forest 
              Linear Regression
              Support Vector Machine
