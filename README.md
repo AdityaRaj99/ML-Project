@@ -13,7 +13,7 @@ Technologies used- Python, ML
                      matplotlib
 
 
-Models used- Random Forest 
-             Linear Regression
-             Support Vector Machine
+Models used- Random Forest,
+             Linear Regression,
+             Support Vector Machine.
              
